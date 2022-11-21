@@ -2,22 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b0c3e0d-1e5e-4beb-871e-2a3a64f2b3a1" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tsk2/CPU_Brand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tsk2/Cpu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tsk2/GPU_Brand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tsk2/Gpu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tsk2/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tsk2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tsk2/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tsk2/Monitor_Brand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tsk2/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tsk2/RAM_Brand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tsk2/RAM_MemoryType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tsk2/Ram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tsk2/Ultrabook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tsk2/Workstation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tsk2/task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tsk3/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tsk3/Comics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tsk3/Genre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tsk3/Magazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tsk3/Magazine_genre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tsk3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tsk3/Paper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tsk3/Paper_type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tsk3/task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tsk4/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tsk4/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tsk4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tsk4/Skills.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tsk4/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tsk4/task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tsk5/task" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.tsk2.Main">
+  <component name="RunManager" selected="Application.tsk4.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tsk1.Main" />
       <module name="java_second_hw" />
@@ -80,8 +80,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tsk3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tsk3.Main" />
+      <module name="java_second_hw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tsk3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tsk4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tsk4.Main" />
+      <module name="java_second_hw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tsk4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tsk4.Main" />
+        <item itemvalue="Application.tsk3.Main" />
         <item itemvalue="Application.tsk2.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -95,7 +123,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668688889145</updated>
-      <workItem from="1668688890333" duration="15073000" />
+      <workItem from="1668688890333" duration="27722000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1668690518946</created>
@@ -118,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668691517127</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init">
+      <created>1669016292467</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669016292467</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
